@@ -1,1 +1,3 @@
 # Astro-Instruments-101
+ WELCOME TO ASTRO INSTRUMENT -101!
+ I AM ROHAN KUMAR .
